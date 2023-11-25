@@ -1375,7 +1375,6 @@ class modemkiller extends Plugin {
                 <img src="/stage/icon.png">
                 <span>${this.i18n.思源笔记}</span>
                 <span class="fn__space"></span>
-                <span class="ft__on-surface">${this.i18n.重构你的思维}</span>
             </div>
             <div class='fn__space fn__flex-1' style='text-align:center;color:transparent'>
             </div>
